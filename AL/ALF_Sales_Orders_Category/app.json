@@ -1,0 +1,23 @@
+{
+  "id": "1d5c2a7d-1236-415f-a794-e7edd04ad44b",
+  "name": "ALF_Sales_Orders_Category",
+  "publisher": "Alexey Finogenov",
+  "brief": "",
+  "description": "ALF Sales Orders Category – add possibility to categorize ‘Sales Order’ by small color text note.",
+  "version": "1.0.190314.2",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://github.com/finn777/ALF_Sales_Orders_Category/blob/master/readme.md",
+  "url": "https://github.com/finn777/ALF_Sales_Orders_Category/blob/master/readme.md",
+  "logo": "ALFLogo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 60221,
+    "to": 60222
+  },
+  "runtime": "2.3"
+}
